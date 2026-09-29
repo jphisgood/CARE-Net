@@ -1,0 +1,306 @@
+Removed 0 old files from: /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000
+
+================================================================================
+Dataset:       Cardiac b-SSFP
+Input:         /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/cmr_bssFP_normalized
+Output:        /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000
+Image count:   45
+Label count:   45
+MODE:          MIDDLE
+n_sv:          5000
+FG threshold:  10
+================================================================================
+[01/45] image_1.nii.gz shape=(13, 192, 192), spacing=(11.999996185302734, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_1.nii.gz
+    Unique labels = 8
+[02/45] image_2.nii.gz shape=(13, 192, 192), spacing=(8.00000286102295, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_2.nii.gz
+    Unique labels = 7
+[03/45] image_3.nii.gz shape=(13, 192, 192), spacing=(8.000003814697266, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_3.nii.gz
+    Unique labels = 7
+[04/45] image_4.nii.gz shape=(11, 192, 192), spacing=(7.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_4.nii.gz
+    Unique labels = 8
+[05/45] image_5.nii.gz shape=(13, 192, 192), spacing=(8.000004768371582, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_5.nii.gz
+    Unique labels = 11
+[06/45] image_6.nii.gz shape=(9, 192, 192), spacing=(12.00000286102295, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_6.nii.gz
+    Unique labels = 5
+[07/45] image_7.nii.gz shape=(13, 192, 192), spacing=(8.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_7.nii.gz
+    Unique labels = 7
+[08/45] image_8.nii.gz shape=(13, 192, 192), spacing=(8.00000286102295, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_8.nii.gz
+    Unique labels = 5
+[09/45] image_9.nii.gz shape=(13, 192, 192), spacing=(7.999997615814209, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_9.nii.gz
+    Unique labels = 8
+[10/45] image_10.nii.gz shape=(11, 192, 192), spacing=(13.00000286102295, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_10.nii.gz
+    Unique labels = 7
+[11/45] image_11.nii.gz shape=(13, 192, 192), spacing=(8.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_11.nii.gz
+    Unique labels = 10
+[12/45] image_12.nii.gz shape=(15, 192, 192), spacing=(8.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_12.nii.gz
+    Unique labels = 10
+[13/45] image_13.nii.gz shape=(11, 192, 192), spacing=(7.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_13.nii.gz
+    Unique labels = 6
+[14/45] image_14.nii.gz shape=(13, 192, 192), spacing=(7.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_14.nii.gz
+    Unique labels = 11
+[15/45] image_15.nii.gz shape=(11, 192, 192), spacing=(7.999996662139893, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_15.nii.gz
+    Unique labels = 10
+[16/45] image_16.nii.gz shape=(13, 192, 192), spacing=(7.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_16.nii.gz
+    Unique labels = 9
+[17/45] image_17.nii.gz shape=(11, 192, 192), spacing=(11.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_17.nii.gz
+    Unique labels = 6
+[18/45] image_18.nii.gz shape=(13, 192, 192), spacing=(7.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_18.nii.gz
+    Unique labels = 7
+[19/45] image_19.nii.gz shape=(13, 192, 192), spacing=(8.000000953674316, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_19.nii.gz
+    Unique labels = 7
+[20/45] image_20.nii.gz shape=(15, 192, 192), spacing=(8.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_20.nii.gz
+    Unique labels = 9
+[21/45] image_21.nii.gz shape=(15, 192, 192), spacing=(7.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_21.nii.gz
+    Unique labels = 10
+[22/45] image_22.nii.gz shape=(11, 192, 192), spacing=(11.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_22.nii.gz
+    Unique labels = 6
+[23/45] image_23.nii.gz shape=(11, 192, 192), spacing=(11.00000286102295, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_23.nii.gz
+    Unique labels = 6
+[24/45] image_24.nii.gz shape=(13, 192, 192), spacing=(8.000000953674316, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_24.nii.gz
+    Unique labels = 8
+[25/45] image_25.nii.gz shape=(9, 192, 192), spacing=(12.000005722045898, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_25.nii.gz
+    Unique labels = 8
+[26/45] image_26.nii.gz shape=(13, 192, 192), spacing=(7.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_26.nii.gz
+    Unique labels = 7
+[27/45] image_27.nii.gz shape=(11, 192, 192), spacing=(11.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_27.nii.gz
+    Unique labels = 7
+[28/45] image_28.nii.gz shape=(13, 192, 192), spacing=(8.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_28.nii.gz
+    Unique labels = 7
+[29/45] image_29.nii.gz shape=(10, 192, 192), spacing=(11.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_29.nii.gz
+    Unique labels = 7
+[30/45] image_30.nii.gz shape=(15, 192, 192), spacing=(7.999996662139893, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_30.nii.gz
+    Unique labels = 9
+[31/45] image_31.nii.gz shape=(11, 192, 192), spacing=(11.000003814697266, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_31.nii.gz
+    Unique labels = 5
+[32/45] image_32.nii.gz shape=(11, 192, 192), spacing=(12.000000953674316, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_32.nii.gz
+    Unique labels = 6
+[33/45] image_33.nii.gz shape=(11, 192, 192), spacing=(9.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_33.nii.gz
+    Unique labels = 9
+[34/45] image_34.nii.gz shape=(11, 192, 192), spacing=(10.99999713897705, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_34.nii.gz
+    Unique labels = 6
+[35/45] image_35.nii.gz shape=(11, 192, 192), spacing=(7.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_35.nii.gz
+    Unique labels = 3
+[36/45] image_36.nii.gz shape=(11, 192, 192), spacing=(7.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_36.nii.gz
+    Unique labels = 7
+[37/45] image_37.nii.gz shape=(15, 192, 192), spacing=(7.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_37.nii.gz
+    Unique labels = 12
+[38/45] image_38.nii.gz shape=(13, 192, 192), spacing=(8.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_38.nii.gz
+    Unique labels = 7
+[39/45] image_39.nii.gz shape=(13, 192, 192), spacing=(7.999997138977051, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_39.nii.gz
+    Unique labels = 7
+[40/45] image_40.nii.gz shape=(15, 192, 192), spacing=(7.999995231628418, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_40.nii.gz
+    Unique labels = 13
+[41/45] image_41.nii.gz shape=(11, 192, 192), spacing=(8.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_41.nii.gz
+    Unique labels = 7
+[42/45] image_42.nii.gz shape=(13, 192, 192), spacing=(8.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_42.nii.gz
+    Unique labels = 9
+[43/45] image_43.nii.gz shape=(13, 192, 192), spacing=(7.999996185302734, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_43.nii.gz
+    Unique labels = 8
+[44/45] image_44.nii.gz shape=(13, 192, 192), spacing=(7.999998092651367, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_44.nii.gz
+    Unique labels = 7
+[45/45] image_45.nii.gz shape=(11, 192, 192), spacing=(11.000001907348633, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000/superpix-MIDDLE_45.nii.gz
+    Unique labels = 7
+
+--------------------------------------------------------------------------------
+Finished Cardiac b-SSFP
+Generated files: 45
+Output directory: /root/rivermind-data/Geoproto-main/data/Cardiac/bSSFP/supervoxels_5000
+--------------------------------------------------------------------------------
+Removed 0 old files from: /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000
+
+================================================================================
+Dataset:       Cardiac LGE
+Input:         /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/cmr_LGE_normalized
+Output:        /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000
+Image count:   45
+Label count:   45
+MODE:          MIDDLE
+n_sv:          5000
+FG threshold:  10
+================================================================================
+[01/45] image_1.nii.gz shape=(16, 192, 192), spacing=(4.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_1.nii.gz
+    Unique labels = 9
+[02/45] image_2.nii.gz shape=(17, 192, 192), spacing=(5.000009059906006, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_2.nii.gz
+    Unique labels = 11
+[03/45] image_3.nii.gz shape=(16, 192, 192), spacing=(4.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_3.nii.gz
+    Unique labels = 9
+[04/45] image_4.nii.gz shape=(16, 192, 192), spacing=(4.999998092651367, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_4.nii.gz
+    Unique labels = 13
+[05/45] image_5.nii.gz shape=(17, 192, 192), spacing=(5.000002861022949, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_5.nii.gz
+    Unique labels = 11
+[06/45] image_6.nii.gz shape=(16, 192, 192), spacing=(5.0, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_6.nii.gz
+    Unique labels = 9
+[07/45] image_7.nii.gz shape=(16, 192, 192), spacing=(4.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_7.nii.gz
+    Unique labels = 14
+[08/45] image_8.nii.gz shape=(17, 192, 192), spacing=(5.000006198883057, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_8.nii.gz
+    Unique labels = 12
+[09/45] image_9.nii.gz shape=(16, 192, 192), spacing=(4.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_9.nii.gz
+    Unique labels = 11
+[10/45] image_10.nii.gz shape=(16, 192, 192), spacing=(4.999998092651367, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_10.nii.gz
+    Unique labels = 11
+[11/45] image_11.nii.gz shape=(16, 192, 192), spacing=(5.000002861022949, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_11.nii.gz
+    Unique labels = 10
+[12/45] image_12.nii.gz shape=(17, 192, 192), spacing=(4.999998092651367, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_12.nii.gz
+    Unique labels = 10
+[13/45] image_13.nii.gz shape=(16, 192, 192), spacing=(4.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_13.nii.gz
+    Unique labels = 10
+[14/45] image_14.nii.gz shape=(16, 192, 192), spacing=(4.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_14.nii.gz
+    Unique labels = 8
+[15/45] image_15.nii.gz shape=(19, 192, 192), spacing=(4.999996185302734, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_15.nii.gz
+    Unique labels = 11
+[16/45] image_16.nii.gz shape=(16, 192, 192), spacing=(5.000004768371582, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_16.nii.gz
+    Unique labels = 12
+[17/45] image_17.nii.gz shape=(17, 192, 192), spacing=(4.999996185302734, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_17.nii.gz
+    Unique labels = 8
+[18/45] image_18.nii.gz shape=(16, 192, 192), spacing=(4.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_18.nii.gz
+    Unique labels = 7
+[19/45] image_19.nii.gz shape=(17, 192, 192), spacing=(5.000002861022949, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_19.nii.gz
+    Unique labels = 9
+[20/45] image_20.nii.gz shape=(17, 192, 192), spacing=(5.00000524520874, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_20.nii.gz
+    Unique labels = 11
+[21/45] image_21.nii.gz shape=(17, 192, 192), spacing=(4.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_21.nii.gz
+    Unique labels = 9
+[22/45] image_22.nii.gz shape=(16, 192, 192), spacing=(4.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_22.nii.gz
+    Unique labels = 13
+[23/45] image_23.nii.gz shape=(11, 192, 192), spacing=(4.999985694885254, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_23.nii.gz
+    Unique labels = 9
+[24/45] image_24.nii.gz shape=(17, 192, 192), spacing=(5.000004291534424, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_24.nii.gz
+    Unique labels = 11
+[25/45] image_25.nii.gz shape=(16, 192, 192), spacing=(5.000001430511475, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_25.nii.gz
+    Unique labels = 11
+[26/45] image_26.nii.gz shape=(11, 192, 192), spacing=(5.000000476837158, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_26.nii.gz
+    Unique labels = 11
+[27/45] image_27.nii.gz shape=(21, 192, 192), spacing=(4.999998569488525, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_27.nii.gz
+    Unique labels = 10
+[28/45] image_28.nii.gz shape=(17, 192, 192), spacing=(4.999993801116943, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_28.nii.gz
+    Unique labels = 6
+[29/45] image_29.nii.gz shape=(15, 192, 192), spacing=(5.000000953674316, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_29.nii.gz
+    Unique labels = 8
+[30/45] image_30.nii.gz shape=(17, 192, 192), spacing=(5.000003814697266, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_30.nii.gz
+    Unique labels = 10
+[31/45] image_31.nii.gz shape=(13, 192, 192), spacing=(5.000000476837158, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_31.nii.gz
+    Unique labels = 6
+[32/45] image_32.nii.gz shape=(16, 192, 192), spacing=(4.999999046325684, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_32.nii.gz
+    Unique labels = 12
+[33/45] image_33.nii.gz shape=(16, 192, 192), spacing=(4.999999523162842, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_33.nii.gz
+    Unique labels = 11
+[34/45] image_34.nii.gz shape=(16, 192, 192), spacing=(5.000006198883057, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_34.nii.gz
+    Unique labels = 8
+[35/45] image_35.nii.gz shape=(16, 192, 192), spacing=(5.000002384185791, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_35.nii.gz
+    Unique labels = 6
+[36/45] image_36.nii.gz shape=(16, 192, 192), spacing=(5.000000953674316, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_36.nii.gz
+    Unique labels = 9
+[37/45] image_37.nii.gz shape=(17, 192, 192), spacing=(4.999998092651367, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_37.nii.gz
+    Unique labels = 12
+[38/45] image_38.nii.gz shape=(16, 192, 192), spacing=(5.000000476837158, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_38.nii.gz
+    Unique labels = 7
+[39/45] image_39.nii.gz shape=(16, 192, 192), spacing=(4.99999475479126, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_39.nii.gz
+    Unique labels = 7
+[40/45] image_40.nii.gz shape=(19, 192, 192), spacing=(5.000006675720215, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_40.nii.gz
+    Unique labels = 10
+[41/45] image_41.nii.gz shape=(16, 192, 192), spacing=(5.000002384185791, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_41.nii.gz
+    Unique labels = 5
+[42/45] image_42.nii.gz shape=(17, 192, 192), spacing=(4.999994277954102, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_42.nii.gz
+    Unique labels = 6
+[43/45] image_43.nii.gz shape=(17, 192, 192), spacing=(5.000006675720215, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_43.nii.gz
+    Unique labels = 8
+[44/45] image_44.nii.gz shape=(16, 192, 192), spacing=(5.000002861022949, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_44.nii.gz
+    Unique labels = 10
+[45/45] image_45.nii.gz shape=(16, 192, 192), spacing=(5.000004291534424, 1.25, 1.25)
+    Saved -> /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000/superpix-MIDDLE_45.nii.gz
+    Unique labels = 7
+
+--------------------------------------------------------------------------------
+Finished Cardiac LGE
+Generated files: 45
+Output directory: /root/rivermind-data/Geoproto-main/data/Cardiac/LGE/supervoxels_5000
+--------------------------------------------------------------------------------
